@@ -1,0 +1,7 @@
+{
+  "name": "G.O (Team 56)",
+  "description": "G.O (Go Out) - An AI-powered urban discovery platform that helps friends decide what to do based on their collective vibe, budget, and location. Built for Team 56.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
