@@ -2,9 +2,9 @@
 
 <p>
   <a href="https://github.com/BryanBradfo/g.o/releases"><img src="https://img.shields.io/github/v/release/BryanBradfo/g.o?include_prereleases&style=for-the-badge" alt="Release"></a>
-  <a><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License"></a>
-  <a><img src="https://img.shields.io/badge/Made%20with-React-61dafb.svg?style=for-the-badge" alt="React"></a>
-  <a><img src="https://img.shields.io/badge/Powered%20by-Gemini%20AI-4285F4.svg?style=for-the-badge" alt="Gemini AI"></a>
+  <a href="#license"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License"></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/Made%20with-React-61dafb.svg?style=for-the-badge" alt="React"></a>
+  <a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Powered%20by-Gemini%20AI-4285F4.svg?style=for-the-badge" alt="Gemini AI"></a>
 </p>
 
 **Never argue about "what to do tonight" again! G.O uses AI to discover the perfect activities based on your squad's collective vibe, budget, and location. Built for Team 56 with React ⚛️ and Google Gemini AI ✨**
@@ -93,27 +93,23 @@ VITE_GEMINI_API_KEY=your_gemini_api_key_here
 ### 1️⃣ Find Activities
 
 **Set Your Location**
-```
+
 Enter your city or let the app detect your location automatically
-```
 
 **Build Your Squad**
-```
+
 Add friends with their names and interests:
 - Alice: "loves art galleries and coffee shops"
 - Bob: "into sports bars and live music"
 - Carol: "vegan foodie, hates crowds"
-```
 
 **Set Your Budget**
-```
-Choose from: Low | Moderate | Premium | Luxury
-```
+
+Choose from: `Low` | `Moderate` | `Premium` | `Luxury`
 
 **Get Recommendations**
-```
+
 Click "Find Activities" and let AI work its magic! ✨
-```
 
 ### 2️⃣ Advanced Filters
 
@@ -132,12 +128,11 @@ Click "Advanced Settings" to exclude specific categories:
 ### 3️⃣ Host Events
 
 Switch to the "Host" tab to create your own public events:
-```
-Event Name: "Rooftop Sunset Party"
-Category: Social
-Price: "€15 entry"
-Description: "Join us for cocktails and city views!"
-```
+
+- **Event Name**: "Rooftop Sunset Party"
+- **Category**: Social
+- **Price**: "€15 entry"
+- **Description**: "Join us for cocktails and city views!"
 
 Broadcast it to everyone on G.O! 📢
 
