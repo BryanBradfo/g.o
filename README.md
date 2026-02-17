@@ -1,11 +1,9 @@
 # 🌍 G.O (Go Out) — AI-Powered Urban Discovery Platform
 
-<p>
-  <a href="https://github.com/BryanBradfo/g.o/releases"><img src="https://img.shields.io/github/v/release/BryanBradfo/g.o?include_prereleases&style=for-the-badge" alt="Release"></a>
-  <a href="#license"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License"></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/Made%20with-React-61dafb.svg?style=for-the-badge" alt="React"></a>
-  <a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Powered%20by-Gemini%20AI-4285F4.svg?style=for-the-badge" alt="Gemini AI"></a>
-</p>
+<a href="https://github.com/BryanBradfo/g.o/releases"><img src="https://img.shields.io/github/v/release/BryanBradfo/g.o?include_prereleases&style=for-the-badge" alt="Release"></a>
+<a href="#license"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License"></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/Made%20with-React-61dafb.svg?style=for-the-badge" alt="React"></a>
+<a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Powered%20by-Gemini%20AI-4285F4.svg?style=for-the-badge" alt="Gemini AI"></a>
 
 **Never argue about "what to do tonight" again! G.O uses AI to discover the perfect activities based on your squad's collective vibe, budget, and location. Built for Team 56 with React ⚛️ and Google Gemini AI ✨**
 
