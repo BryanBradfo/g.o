@@ -1,17 +1,6 @@
 # 🌍 G.O (Go Out) — AI-Powered Urban Discovery Platform
 
-<a href="https://github.com/BryanBradfo/g.o/releases"><img src="https://img.shields.io/github/v/release/BryanBradfo/g.o?include_prereleases&style=for-the-badge" alt="Release"></a>
-<a href="#license"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License"></a>
-<a href="https://react.dev/"><img src="https://img.shields.io/badge/Made%20with-React-61dafb.svg?style=for-the-badge" alt="React"></a>
-<a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Powered%20by-Gemini%20AI-4285F4.svg?style=for-the-badge" alt="Gemini AI"></a>
-
-**Never argue about "what to do tonight" again! G.O uses AI to discover the perfect activities based on your squad's collective vibe, budget, and location. Built for Team 56 with React ⚛️ and Google Gemini AI ✨**
-
----
-
-<div align="center">
-<img width="1200" height="475" alt="g_o" src="https://github.com/user-attachments/assets/968b0c63-fd0f-4a35-bb35-da35c9162d31" />
-</div>
+Never argue about "what to do tonight" again! G.O uses AI to discover the perfect activities based on your squad's collective vibe, budget, and location.
 
 ---
 
@@ -25,32 +14,6 @@ Planning a night out with friends is frustrating:
 - **Compromise fatigue** — Settling for something no one is excited about
 
 **G.O** solves this by analyzing everyone's interests, your location, and budget constraints to suggest the perfect activities — powered by AI.
-
-## Features
-
-- **🤖 AI-Powered Recommendations** — Google Gemini AI analyzes your squad's collective preferences
-- **👥 Squad Mode** — Add friends with their unique interests and vibes
-- **💰 Smart Budget Filtering** — Set budget constraints (Low, Moderate, Premium, Luxury)
-- **📍 Location-Aware** — Automatically detects your location or set it manually
-- **🗺️ Interactive Map** — Visualize activities on a beautiful map interface
-- **🎯 Advanced Filtering** — Exclude specific categories (nightclubs, seafood, museums, etc.)
-- **🎉 Host Events** — Create and broadcast your own public events
-- **📱 Responsive Design** — Works seamlessly on desktop and mobile
-- **⚡ Real-time Updates** — Get fresh suggestions instantly
-- **🎨 Modern UI** — Beautiful, intuitive interface with smooth animations
-
-## Tech Stack
-
-G.O is built with cutting-edge web technologies:
-
-| Technology | Purpose |
-|-----------|---------|
-| ⚛️ **React 19** | UI framework with latest features |
-| 📘 **TypeScript** | Type-safe development |
-| ⚡ **Vite** | Lightning-fast build tool |
-| 🤖 **Google Gemini AI** | Intelligent activity recommendations |
-| 🎨 **Lucide Icons** | Beautiful, consistent iconography |
-| 🗺️ **Custom Map Component** | Interactive location visualization |
 
 ## Installation
 
@@ -220,22 +183,14 @@ Please ensure your code:
 
 ## Star This Repo!
 
-If you find G.O useful, give it a ⭐ — it helps others discover the project and motivates continued development!
-
-<a href="https://star-history.com/#BryanBradfo/g.o&Date">
-  <img src="https://api.star-history.com/svg?repos=BryanBradfo/g.o&type=Date" alt="Star History Chart" />
+<a href="https://www.star-history.com/?repos=BryanBradfo%2Fg.o&type=date&logscale=&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=BryanBradfo/g.o&type=date&theme=dark&logscale&legend=bottom-right&sealed_token=S8EtsxXsF9bq0UASPtqhgzTud0MWIt3dL5aEWsH21HgCAiEclbRkzqRmxdgZ2R5qEgpz-eDA_EhsOzlVb7DjVaKI-3Ehw4N4cGHts1mvbUHCemk2oR7I7mRqr9uCznnRCUbweoM0sW7QvcD-0ASNf5pwBzD9gj5D0vxiXQv34z1a4icGfAhTW3NjapOX" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=BryanBradfo/g.o&type=date&logscale&legend=bottom-right&sealed_token=S8EtsxXsF9bq0UASPtqhgzTud0MWIt3dL5aEWsH21HgCAiEclbRkzqRmxdgZ2R5qEgpz-eDA_EhsOzlVb7DjVaKI-3Ehw4N4cGHts1mvbUHCemk2oR7I7mRqr9uCznnRCUbweoM0sW7QvcD-0ASNf5pwBzD9gj5D0vxiXQv34z1a4icGfAhTW3NjapOX" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=BryanBradfo/g.o&type=date&logscale&legend=bottom-right&sealed_token=S8EtsxXsF9bq0UASPtqhgzTud0MWIt3dL5aEWsH21HgCAiEclbRkzqRmxdgZ2R5qEgpz-eDA_EhsOzlVb7DjVaKI-3Ehw4N4cGHts1mvbUHCemk2oR7I7mRqr9uCznnRCUbweoM0sW7QvcD-0ASNf5pwBzD9gj5D0vxiXQv34z1a4icGfAhTW3NjapOX" />
+ </picture>
 </a>
-
-## Team
-
-**Team 56** — Building tools to make social planning effortless.
 
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-**View the app in AI Studio**: [https://ai.studio/apps/drive/1357sSZkYS28rsAgOqSVzsauM_X8Xp8Fn](https://ai.studio/apps/drive/1357sSZkYS28rsAgOqSVzsauM_X8Xp8Fn)
-
-Made with ❤️ by Team 56
